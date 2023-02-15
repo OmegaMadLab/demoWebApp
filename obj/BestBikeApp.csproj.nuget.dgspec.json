@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitRepos\\demoWebApp\\BestBikeApp\\BestBikeApp.csproj": {}
+    "C:\\GitRepos\\demoWebApp\\BestBikeApp.csproj": {}
   },
   "projects": {
-    "C:\\GitRepos\\demoWebApp\\BestBikeApp\\BestBikeApp.csproj": {
+    "C:\\GitRepos\\demoWebApp\\BestBikeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitRepos\\demoWebApp\\BestBikeApp\\BestBikeApp.csproj",
+        "projectUniqueName": "C:\\GitRepos\\demoWebApp\\BestBikeApp.csproj",
         "projectName": "BestBikeApp",
-        "projectPath": "C:\\GitRepos\\demoWebApp\\BestBikeApp\\BestBikeApp.csproj",
+        "projectPath": "C:\\GitRepos\\demoWebApp\\BestBikeApp.csproj",
         "packagesPath": "C:\\Users\\marcoobinu\\.nuget\\packages\\",
-        "outputPath": "C:\\GitRepos\\demoWebApp\\BestBikeApp\\obj\\",
+        "outputPath": "C:\\GitRepos\\demoWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marcoobinu\\AppData\\Roaming\\NuGet\\NuGet.Config"
