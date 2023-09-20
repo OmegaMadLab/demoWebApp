@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'demoomegamadlabwebapp'
           slot-name: 'test'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A3463978C864BE69072BE4D9E3C39A4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1EFDB16CFAB8437D9C1EF4DE5DCF9856 }}
           package: .
